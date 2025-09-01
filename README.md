@@ -1,4 +1,4 @@
-<!--
+
 ### Hi there, I'm YouSlovenia! 👋
 
 #### 🎮 Game Developer & Incremental Game Enthusiast
@@ -42,4 +42,3 @@ Let’s make something awesome together.
 ---
 
 ![YouSlovenia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YouSlovenia&show_icons=true&theme=radical)
--->
